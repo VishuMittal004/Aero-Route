@@ -94,4 +94,4 @@ This project is created for educational purposes.
 
 ## Author
 
-[Your Name]
+Vipanshu Mittal
